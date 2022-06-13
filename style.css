@@ -88,3 +88,8 @@ body {
   background: #74FAC0;
   transition: 0.5s;
 }
+
+.carousel {
+  height: 100%;
+  padding: 0;
+}
