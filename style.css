@@ -41,4 +41,17 @@ body {
 
 .banner-img {
   width: 50%;
+  object-fit: cover;
+}
+
+.text-green {
+  color: #74FAC0;
+}
+
+.banner-contact a {
+    color: #74FAC0;
+}
+
+.banner-contact a:hover {
+    color: gray;
 }
