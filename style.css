@@ -50,11 +50,11 @@ body {
 }
 
 .banner-contact a {
-    color: #74FAC0;
+  color: white;
 }
 
 .banner-contact a:hover {
-    color: gray;
+    color: #74FAC0;
 }
 
 /* projects */
@@ -70,13 +70,17 @@ body {
   height: 50px;
 }
 
+.role {
+  color: #74FAC0;
+}
+
 .btn {
-  border: 2px solid white;
-  color: white;
+  border: 2px solid white !important;
+  color: white !important;
 }
 
 .btn:hover {
-  color: white;
+  color: #2F324A !important;
   background: #74FAC0;
   transition: 0.5s;
 }
