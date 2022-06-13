@@ -34,10 +34,15 @@ body {
 .banner {
   height: 100vh;
   color: white;
+  margin-bottom: 200px;
 }
 
 .banner-info {
   width: 50%;
+}
+
+.banner-info h1{
+  font-size: 5rem;
 }
 
 .banner-img {
@@ -60,6 +65,10 @@ body {
 /* projects */
 
 /* project */
+.project {
+  margin: 100px 0;
+}
+
 .project-img {
   width: 50%;
   object-fit: cover;
