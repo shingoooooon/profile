@@ -48,6 +48,7 @@ body {
 .banner-img {
   width: 50%;
   object-fit: cover;
+  filter: grayscale(100%)
 }
 
 .text-green {
@@ -67,11 +68,6 @@ body {
 /* project */
 .project {
   margin: 100px 0;
-}
-
-.project-img {
-  width: 50%;
-  object-fit: cover;
 }
 
 .icons img {
