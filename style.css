@@ -1,3 +1,7 @@
+/* color */
+/* #2F324A */
+/* #74FAC0 */
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Space+Mono&family=Water+Brush&display=swap');
 
 @media (max-width: 960px) {
@@ -22,10 +26,19 @@
 }
 
 body {
-  background-color: #2F324A;
+  background-color: #2F324A !important;
 }
 
 /* banner */
 .banner {
   height: 100vh;
+  color: white;
+}
+
+.banner-info {
+  width: 50%;
+}
+
+.banner-img {
+  width: 50%;
 }
