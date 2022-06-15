@@ -37,16 +37,11 @@ body {
   margin-bottom: 200px;
 }
 
-.banner-info {
-  width: 50%;
-}
-
 .banner-info h1{
   font-size: 5rem;
 }
 
 .banner-img {
-  width: 50%;
   object-fit: cover;
 }
 
